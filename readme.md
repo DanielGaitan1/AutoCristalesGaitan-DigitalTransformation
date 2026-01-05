@@ -1,4 +1,4 @@
-## 📸 Application Gallery
+## Application Gallery
 
 ### 1. Mobile Experience & Operations
 *Secure access and optimized UX for warehouse operations.*
